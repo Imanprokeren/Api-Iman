@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : ImanBot
+//   Credit : AlpiBot
 //   
 //   Note 
 //   Jangan Jual SC ini ,
